@@ -20,7 +20,7 @@
 #
 
 ### Stats
-[![Ehsan Ho's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EhsanHo7939&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehsan Ho's github stats](https://github-readme-stats.vercel.app/api?username=EhsanHo7939&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 #
 
