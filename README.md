@@ -23,7 +23,7 @@
 
 ### Stats
 [![Ehsan Ho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EhsanHo7939&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ehsan Ho's github stats](https://github-readme-stats.vercel.app/api?username=EhsanHo7939&show_icons=true&theme=gotham&include_all_commits=True&rank_icon=default&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![Ehsan Ho's github stats](https://github-readme-stats.vercel.app/api?username=EhsanHo7939&show_icons=true&theme=gotham&include_all_commits=True&rank_icon=default&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![reimaginedreadme](https://myreadme.vercel.app/api/embed/EhsanHo7939?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme) -->
 
 #
