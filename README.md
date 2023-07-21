@@ -22,22 +22,22 @@
 #
 
 ### Stats
-[![Ehsan Ho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EhsanHo7939&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![Ehsan Ho's github stats](https://github-readme-stats.vercel.app/api?username=EhsanHo7939&show_icons=true&theme=highcontrast&include_all_commits=True&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![reimaginedreadme](https://myreadme.vercel.app/api/embed/EhsanHo7939?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme) -->
+[![Ehsan Ho's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EhsanHoDev&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ehsan Ho's github stats](https://github-readme-stats.vercel.app/api?username=EhsanHoDev&show_icons=true&theme=highcontrast&include_all_commits=True&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![reimaginedreadme](https://myreadme.vercel.app/api/embed/EhsanHoDev?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/PressJump/reimaginedreadme) -->
 
 #
 
 ### Profile Views
 <div align="left">
-<p align="left"><img align="center" src="https://profile-counter.glitch.me/{EhsanHo7939}/count.svg" /></p> 
+<p align="left"><img align="center" src="https://profile-counter.glitch.me/{EhsanHoDev}/count.svg" /></p> 
 </div>
 
 #
 
 ### Contact
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EhsanHo7939/)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EhsanHo7939/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EhsanHoDev/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/EhsanHoDev/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EhsanHo7939@gmail.com)
 
 
